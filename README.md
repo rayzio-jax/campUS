@@ -43,7 +43,7 @@ In a nutshell, this app is like a cozy corner where students and, like, the supe
         <b><i>Back-End & Bug Hunter</i></b>
       </td>
       <td align="center" valign="top" width="30%">
-        <a href="https://github.com/rayhanantha">
+        <a href="https://github.com/rayzio-jax">
           <img src="https://avatars.githubusercontent.com/u/111292920?v=4?s=100" width="100%" alt="Rayhanantha Akbar Putra Prasetyo"/>
         </a><br />
         <b>Rayhanantha Akbar</b><br />
